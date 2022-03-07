@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25mm"
+   height="25mm"
+   viewBox="0 0 25 25"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="200mm"
+     inkscape:zoom="7.04"
+     inkscape:cx="53.053977"
+     inkscape:cy="45.454546"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Neon Draw"
+       id="filter27433"
+       x="-5.4880236"
+       y="-7.014345"
+       width="11.976047"
+       height="15.02869">
+      <feBlend
+         mode="normal"
+         result="blend"
+         in2="SourceGraphic"
+         id="feBlend27403" />
+      <feGaussianBlur
+         in="blend"
+         stdDeviation="11.2544"
+         result="blur1"
+         id="feGaussianBlur27405" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"
+         result="color1"
+         id="feColorMatrix27407" />
+      <feComponentTransfer
+         result="component1"
+         id="feComponentTransfer27415">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           id="feFuncR27409" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           id="feFuncG27411" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           id="feFuncB27413" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         in="component1"
+         stdDeviation="12.8786"
+         result="blur2"
+         id="feGaussianBlur27417" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"
+         result="color2"
+         id="feColorMatrix27419" />
+      <feComponentTransfer
+         in="color2"
+         result="component2"
+         id="feComponentTransfer27427">
+        <feFuncR
+           type="table"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           id="feFuncR27421" />
+        <feFuncG
+           type="table"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           id="feFuncG27423" />
+        <feFuncB
+           type="table"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           id="feFuncB27425" />
+      </feComponentTransfer>
+      <feComposite
+         in="component2"
+         in2="blur2"
+         k3="0.75"
+         operator="arithmetic"
+         k2="1"
+         result="composite1"
+         id="feComposite27429" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite27431" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix27453" />
+      <feBlend
+         in2="fbSourceGraphicAlpha"
+         id="feBlend27455"
+         mode="normal"
+         result="blend"
+         in="fbSourceGraphic" />
+      <feGaussianBlur
+         id="feGaussianBlur27457"
+         in="blend"
+         stdDeviation="11.2544"
+         result="blur1" />
+      <feColorMatrix
+         id="feColorMatrix27459"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"
+         result="color1" />
+      <feComponentTransfer
+         id="feComponentTransfer27461"
+         result="component1">
+        <feFuncR
+           id="feFuncR27463"
+           type="discrete"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1" />
+        <feFuncG
+           id="feFuncG27465"
+           type="discrete"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1" />
+        <feFuncB
+           id="feFuncB27467"
+           type="discrete"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         id="feGaussianBlur27469"
+         in="component1"
+         stdDeviation="12.8786"
+         result="blur2" />
+      <feColorMatrix
+         id="feColorMatrix27471"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"
+         result="color2" />
+      <feComponentTransfer
+         id="feComponentTransfer27473"
+         in="color2"
+         result="component2">
+        <feFuncR
+           id="feFuncR27475"
+           type="table"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1" />
+        <feFuncG
+           id="feFuncG27477"
+           type="table"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1" />
+        <feFuncB
+           id="feFuncB27479"
+           type="table"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1" />
+      </feComponentTransfer>
+      <feComposite
+         in2="blur2"
+         id="feComposite27481"
+         in="component2"
+         k3="0.75"
+         operator="arithmetic"
+         k2="1"
+         result="composite1" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite27483"
+         in="composite1"
+         operator="in"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.6364px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.361;stroke-opacity:0.36518773;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter27433)"
+       x="1.0944135"
+       y="20.639004"
+       id="text2363"><tspan
+         id="tspan2361"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6364px;font-family:'Microsoft Uighur';-inkscape-font-specification:'Microsoft Uighur';stroke-width:0.361;stroke:#ffffff;stroke-opacity:0.36518773;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1.0944135"
+         y="20.639004"
+         sodipodi:role="line">IB</tspan></text>
+  </g>
+</svg>
